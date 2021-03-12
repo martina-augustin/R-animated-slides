@@ -5,13 +5,14 @@ Ah counter report created with the use of R Markdown and Reveal.js.
 Animated graph created by using gganimate.
 
 
-
+---
 
 ### AhCounter.rmd
 
 - R Markdown file containing the main code 
 - creates html slide output
 
+<br>
 
 
 ### R-animated-slides.rproj

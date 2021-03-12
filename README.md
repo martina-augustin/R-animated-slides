@@ -12,6 +12,7 @@ Animated graph created by using gganimate.
 
 - R Markdown file containing the main code 
 - creates html slide output
+- slides powered by reveal.js
 
 <br>
 

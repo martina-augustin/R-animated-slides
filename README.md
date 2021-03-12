@@ -4,6 +4,7 @@ Ah counter report created with the use of R Markdown and Reveal.js.
 
 Animated graph created by using gganimate.
 
+<br>
 
 ---
 
@@ -19,6 +20,7 @@ Animated graph created by using gganimate.
 
 - R project 
 
+<br>
 
 
 ### style.css
@@ -26,6 +28,7 @@ Animated graph created by using gganimate.
 - style sheet added to the html slides
 - includes custom styling of the slides including fonts and arrow buttons
 
+<br>
 
 
 ### ah_counter.csv

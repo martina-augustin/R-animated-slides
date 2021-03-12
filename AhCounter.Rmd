@@ -37,8 +37,6 @@ if (!require(reshape2)) {install.packages("reshape2"); library(reshape2)}      #
 if (!require(ggplot2)) {install.packages("ggplot2"); library(ggplot2)}         # for plotting the graph
 if (!require(dplyr)) {install.packages("dplyr"); library(dplyr)} (dplyr)       # joining data
 if (!require(gganimate)) {install.packages("gganimate"); library(gganimate)}   # animated plots
-if (!require(knitr)) {install.packages("knitr"); library(knitr)}               # 
-if (!require(png)) {install.packages("png"); library(png)}                     # 
 if (!require(magick)) {install.packages("magick"); library(magick)}            # save gganimate object
 
 
@@ -187,7 +185,7 @@ for(i in no_ah_names){
 
 
 
-#
+
 ```{r, include=FALSE}
 endTime <- Sys.time()
 endTime - startTime
